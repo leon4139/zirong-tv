@@ -1,0 +1,12 @@
+AndroidX Media3 / ExoPlayer 1.5.1
+Copyright The Android Open Source Project and contributors.
+Licensed under the Apache License, Version 2.0 (Apache-2.0.txt).
+https://github.com/androidx/media
+
+Mozilla CA Root Certificate Bundle (certifi/python-certifi)
+Licensed under MPL-2.0; see certifi-LICENSE.txt and ca-bundle-source.txt.
+The unmodified CA bundle is included as cacert.pem.
+
+静观 TV Android (LibreTV-App) is distributed under AGPL-3.0-or-later (LICENSE.txt).
+Upstream project: https://github.com/LibreSpark/LibreTV
+Android source: https://github.com/wangshaojie/LibreTV-App/tree/main/android

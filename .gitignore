@@ -1,0 +1,35 @@
+node_modules/
+.next/
+out/
+.env
+.env*.local
+*.tsbuildinfo
+vitest-results.json
+*.log
+desktop/node_modules/
+desktop/resources/
+desktop/dist/
+desktop/LibreTV-Data/
+desktop/.build-cache/
+desktop/test-release/
+**/LibreTV-Data/
+
+# AI 工具产物（本机会话/缓存数据，不入库）
+.mimosa/
+.zcode/
+.codebuddy/
+generated-images/
+android/.gradle/
+android/**/build/
+android/local.properties
+android/release-*/
+# 手机测试包与设计过程素材：都是本地产物，不入库
+android/phone-test/
+docs/design/
+# 真机调试产物
+android/tv-*.png
+android/tv-logcat*.txt
+android/s[0-9]*.png
+*.jks
+*.keystore
+*.p12
